@@ -1,7 +1,7 @@
 <?php
 
 	/*
-	 * ??
+	 * Superklasse für alle Pages
 	 * 
 	 * @version 12/04/2012
 	 * @author Benjamin Abicht / Stefan Schaetz
