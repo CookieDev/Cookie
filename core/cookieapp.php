@@ -9,7 +9,7 @@
 	class CookieApp {
 
 		/*
-         * Konstruktor
+         	 * Konstruktor
 		 */
 		function __construct() {
        		//
