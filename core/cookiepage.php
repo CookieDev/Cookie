@@ -1,12 +1,12 @@
 <?php
 
 	/*
-	 * Hauptklasse des Cookie-Frameworks
+	 * ??
 	 * 
 	 * @version 12/04/2012
 	 * @author Benjamin Abicht / Stefan Schaetz
 	 */
-	class cookieApp {
+	class cookiePage {
 
 		/*
          	 * Konstruktor
