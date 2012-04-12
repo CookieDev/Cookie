@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 
 	/*
 	 * Superklasse für alle Pages
@@ -24,3 +24,4 @@
    		
 	}
 
+?>
