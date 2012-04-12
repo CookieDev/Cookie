@@ -1,6 +1,6 @@
 Cookie
 ======
-blargh
-Test
+Lightweight PHP Framework
+Notes
 -----------
-blargh 2
+nothing yet
